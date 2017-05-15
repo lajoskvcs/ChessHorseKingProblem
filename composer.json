@@ -1,0 +1,17 @@
+{
+    "name": "diwin/imlpementacio",
+    "authors": [
+        {
+            "name": "Kovács Lajos",
+            "email": "kovacs.lajos1218@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Problem\\":"src/"
+        }
+    }
+}
